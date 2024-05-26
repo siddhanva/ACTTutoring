@@ -1,0 +1,15 @@
+.help{
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #005f9e;;
+}
+
+#info{
+    border: 10px black;
+    padding: 3px;
+}
+
+#reachout{
+    text-align: center;
+    font-family: sans-serif;
+}
